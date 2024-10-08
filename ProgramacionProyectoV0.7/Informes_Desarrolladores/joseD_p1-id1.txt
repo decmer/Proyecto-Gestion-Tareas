@@ -1,0 +1,6 @@
+nombre del proyecto: p1
+
+Tareas Pendientes:
+
+	Tareas{id=4, nombre=Tarea jose, prioridad=2
+	ID_proyecto=1, descripcion=jose Tarea, estado=EN_ESPERA, fechaLimite=Thu Dec 04 00:00:00 CET 2025}
